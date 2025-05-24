@@ -43,7 +43,8 @@
 - 📈 Financial modeling with ML  
 - 🧠 Generative AI in cool verticals  
 - 🥾 Hidden hiking trails and elevation flexes  
-- 🎤 Karaoke? You name the song. I destroy the stage.
+- 🎤 Karaoke? You name the song. I destroy the stage.  
+- 🚴‍♂️ Long-distance cycling stories — including that time I *accidentally turned a chill ride into a Tour de Tamil Nadu*
 
 ---
 
@@ -59,11 +60,12 @@
 
 - 🎤 Karaoke song of choice: *Gangsta's Paradise* or *Never Gonna Give You Up*  
 - 🧗 Currently planning a hike every weekend (because Boston is awesome)  
-- 💻 Wrote my first ML model at 4am and still haven’t slept properly since
+- 💻 Wrote my first ML model at 4am and still haven’t slept properly since  
+- 🚴‍♂️ Once cycled from **Chennai to Mahabalipuram and back** — had a blast, but my **mom went full boss-mode over the tan** 😅
 
 ---
 
-## 📊 GitHub Stats (Now in ✨ High-Def)
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AtulAravindDas&show_icons=true&theme=aura_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
