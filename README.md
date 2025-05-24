@@ -28,9 +28,9 @@
 
 ## 🤝 Let’s Collaborate On
 
-- 💸 **Finance meets AI**  
-- 🌌 **Deep Learning in Astronomy**  
-- 🏀 **Sports Analytics & Game Strategy AI**
+- 💸 **AI meets finance**
+- 🌌 **Astronomy and Deep Learning** 
+- 🏀 **Game Strategy AI & Sports Analytics**
 
 ---
 
@@ -48,14 +48,15 @@
 - 🧠 Generative AI in cool verticals  
 - 🥾 Hidden hiking trails and elevation flexes  
 - 🎤 Karaoke? You name the song. I destroy the stage.  
-- 🚴‍♂️ Long-distance cycling stories — including that time I *accidentally turned a chill ride into a Tour de Tamil Nadu*
+- 🚴‍♂️ Stories about long-distance cycling, such as the time I *unintentionally* transformed a leisurely ride into a Tour de Tamil Nadu
 
 ---
 
 ## 📫 Reach Out
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/atul-aravind-das)  
-- 📧 [Email](mailto:atulbhaijaan@gmail.com)  
+- 📧 [Email](mailto:atulbhaijaan@gmail.com)
+- 📷 [Instagram](https://www.instagram.com/atul__a__das/)
 - 🕊️ Or send a digital carrier pigeon with a JSON payload
 
 ---
@@ -65,7 +66,7 @@
 - 🎤 Karaoke song of choice: *Gangsta's Paradise* or *Never Gonna Give You Up*  
 - 🧗 Currently planning a hike every weekend (because Boston is awesome)  
 - 💻 Wrote my first ML model at 4am and still haven’t slept properly since  
-- 🚴‍♂️ Once cycled from **Chennai to Mahabalipuram and back** — had a blast, but my **mom went full boss-mode over the tan** 😅
+- 🚴‍♂️ Once, I had a great time cycling from Chennai to Mahabalipuram and back, but my **mom went all boss mode over the tan**. 😅
 
 ---
 
