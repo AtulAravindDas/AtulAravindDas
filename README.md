@@ -9,7 +9,7 @@
 ## 🔥 What I'm Building
 
 🚀 **FinVAR** – A spicy fusion of Finance + Machine Learning  
-👉 [**Try it live**](https://finvar-vx73xpw7zpwvqnryawbcen.streamlit.app/) | [**View the code**](https://github.com/AtulAravindDas/FinVAR)
+👉 [**Try it live**](https://finvar-vx73xpw7zpwvqnryawbcen.streamlit.app/)
 
 ---
 
