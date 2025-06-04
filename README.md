@@ -16,9 +16,10 @@
 ## 🌟 Featured Repos
 
 <div align="center">
-  <a href="https://github.com/AtulAravindDas/FinVAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulAravindDas&repo=FinVAR&theme=aura_dark" alt="FinVAR Repo" />
+  <a href="https://finvar-vx73xpw7zpwvqnryawbcen.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/FinVAR-Live_App-00c853?style=for-the-badge&logo=streamlit" alt="FinVAR Live App Badge" />
   </a>
+
   <a href="https://github.com/AtulAravindDas/Markey-Project-Maps">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtulAravindDas&repo=Markey-Project-Maps&theme=aura_dark" alt="Markey Maps Repo" />
   </a>
