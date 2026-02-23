@@ -55,7 +55,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/atularavinddas)  
 - 📧 [Email](mailto:atulbhaijaan@gmail.com)
 - 📷 [Instagram](https://www.instagram.com/atul__a__das/)
-- 🕊️ Or send a digital carrier pigeon with a JSON payload
 
 ---
 
